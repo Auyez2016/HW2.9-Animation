@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4CD4C37B-CB63-4E19-B276-BA9F240C5B99"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW2.9 Animation/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - 6bed79e743d86c13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.springView.getter : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - bd63d459eb0e781f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.springView.setter : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - f814a00048ab90b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.springView.modify : Swift.Optional&lt;Spring.SpringView&gt;"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - 79c98228dab0c889"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.springView.modify : Swift.Optional&lt;Spring.SpringView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - c8e126872390b774"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HW2_9_Animation.ViewController"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "FBCB0242-8976-4A55-BEF4-D2693D7B6B9C - 9f90d2ec8fe777b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW2_9_Animation.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HW2_9_Animation.ViewController&gt;"
+                  moduleName = "HW2.9 Animation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/SwiftBook/2.16/Lesson%209/HW2.9%20Animation/HW2.9%20Animation/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
